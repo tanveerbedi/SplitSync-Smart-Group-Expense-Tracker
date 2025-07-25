@@ -144,7 +144,7 @@ npm run dev
 ## 🎓 Credits
 
 Made with ❤️ by [Tanveer Singh] as a personal capstone project. Check out more on [GitHub](https://github.com/tanveerbedi).
-* LinkedIn: [LinkedIn]([https://linkedin.com/in/tanveer-s1ngh](https://www.linkedin.com/in/tanveer-singh-bedi-a8b811177/))
+* [LinkedIn](https://www.linkedin.com/in/tanveer-singh-bedi-a8b811177/))
 * Email: [tsbedi2604@gmail.com](mailto:tsbedi2604@gmail.com)
 ---
 
