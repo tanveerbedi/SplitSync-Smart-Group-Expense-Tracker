@@ -134,16 +134,18 @@ npm run dev
 
 ## 🎥 Working Visuals
 
-![Dashboard View](https://your-image-link.com/dashboard.png)
-![Expense Entry Form](https://your-image-link.com/expense-form.gif)
-![AI Assistant Chat](https://your-image-link.com/ai-chat.gif)
+![Dashboard View](https://github.com/tanveerbedi/SplitSync-Smart-Group-Expense-Tracker/blob/b8f0d2c818146564d0bda5c89fbcd7063c5e84f6/Dashboard.png)
+![Expense Entry Form](https://github.com/tanveerbedi/SplitSync-Smart-Group-Expense-Tracker/blob/b8f0d2c818146564d0bda5c89fbcd7063c5e84f6/Expense%20form.png)
+![AI Enabled Chat Room](https://github.com/tanveerbedi/SplitSync-Smart-Group-Expense-Tracker/blob/b8f0d2c818146564d0bda5c89fbcd7063c5e84f6/Chat%20room.png)
+![AI Assistant Bot](https://github.com/tanveerbedi/SplitSync-Smart-Group-Expense-Tracker/blob/b8f0d2c818146564d0bda5c89fbcd7063c5e84f6/AI%20assistant.png)
 
 ---
 
 ## 🎓 Credits
 
-Made with ❤️ by [Tanveer Singh](https://linkedin.com/in/tanveer-s1ngh) as a personal capstone project. Check out more on [GitHub](https://github.com/tanveersingh1257).
-
+Made with ❤️ by [Tanveer Singh] as a personal capstone project. Check out more on [GitHub](https://github.com/tanveerbedi).
+* LinkedIn: [LinkedIn]([https://linkedin.com/in/tanveer-s1ngh](https://www.linkedin.com/in/tanveer-singh-bedi-a8b811177/))
+* Email: [tsbedi2604@gmail.com](mailto:tsbedi2604@gmail.com)
 ---
 
 ## 🌐 License
@@ -151,8 +153,3 @@ Made with ❤️ by [Tanveer Singh](https://linkedin.com/in/tanveer-s1ngh) as a 
 MIT License. Feel free to use, improve, or contribute.
 
 ---
-
-## 📫 Contact
-
-* LinkedIn: [https://linkedin.com/in/tanveer-s1ngh](https://linkedin.com/in/tanveer-s1ngh)
-* Email: [tanveersingh1257@gmail.com](mailto:tanveersingh1257@gmail.com)
